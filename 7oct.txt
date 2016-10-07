@@ -1,0 +1,1 @@
+efox\.png|logo_chrome\.png|jquery\.slimscroll\.js|swfobject\.js).)*$
